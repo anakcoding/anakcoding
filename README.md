@@ -22,7 +22,7 @@
 ## Contact Me
 
 <a href="https://www.linkedin.com/in/mhafizhbayhaqi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:m.hafizh.bayhaqi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:mhb.hafizh.bayhaqi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <!--
 **anakcoding/anakcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
