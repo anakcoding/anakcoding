@@ -12,7 +12,6 @@
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💻 Visit my [Portfolio](https://anakcoding.github.io) for more details about me.
 - 🚀 Passionate about building impactful software and data-driven solutions.
-- 📚 Always exploring new technologies and frameworks to improve my skillset.
 - 📈 Looking to collaborate on exciting open-source projects and real-world applications.
 
 ## Tech Skills
