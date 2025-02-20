@@ -8,7 +8,7 @@
 
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, Node.js, .NET, RDBMS, REST API and Data Visualization. </p>
 
-- ✨ Student at at Purwadhika Digital Technology School, based in Jakarta, Indonesia
+- ✨ Student at Purwadhika Digital Technology School, based in Jakarta, Indonesia
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💻 Visit my [Portfolio](https://anakcoding.github.io) for more details about me.
 - 🚀 Passionate about building impactful software and data-driven solutions.
