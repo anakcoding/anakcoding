@@ -3,10 +3,17 @@
 # 👋 Welcome to My GitHub Profile! 👋
 
 <div>
-  <img align="right" width="40%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+  <img align="right" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div>
 
-Hi there! I'm Muhammad Hafizh Bayhaqi, a student at Purwadhika Digital Technology School, based in Jakarta, Indonesia.
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, Node.js, .NET, RDBMS, REST API and Data Visualization. </p>
+
+- ✨ Student at at Purwadhika Digital Technology School, based in Jakarta, Indonesia
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 💻 Visit my [Portfolio](https://anakcoding.github.io) for more details about me.
+- 🚀 Passionate about building impactful software and data-driven solutions.
+- 📚 Always exploring new technologies and frameworks to improve my skillset.
+- 📈 Looking to collaborate on exciting open-source projects and real-world applications.
 
 ## Tech Skills
 
@@ -37,18 +44,3 @@ Hi there! I'm Muhammad Hafizh Bayhaqi, a student at Purwadhika Digital Technolog
 
 <a href="https://www.linkedin.com/in/mhafizhbayhaqi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:mhb.hafizh.bayhaqi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<!--
-**anakcoding/anakcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
