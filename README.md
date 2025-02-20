@@ -1,4 +1,4 @@
-![Kiran1689 Banner Image](./banner-profile.png)
+  ![Kiran1689 Banner Image](./banner-profile.png)
 
 # 👋 Welcome to My GitHub Profile! 👋
 
@@ -31,7 +31,10 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/mysql-eb4034.svg?style=for-the-badge&logo=mssql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-396C94.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Looker](https://img.shields.io/badge/looker_studio-1a73e8.svg?style=for-the-badge&logo=looker&logoColor=white)
+![Tableau](https://img.shields.io/badge/tableau-032d60.svg?style=for-the-badge&logo=tableau&logoColor=white)
 
 <!-- ## Github Stats
 [![Akmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=akmalmzkki&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
