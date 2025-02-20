@@ -22,10 +22,17 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![.NET](https://img.shields.io/badge/.net-5632D5?style=for-the-badge&logo=.net&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-7B7FB5?style=for-the-badge&logo=php&logoColor=white)
-![Flutter](https://img.shields.io/badge/flutter-2FB8F6?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/DART-2FB8F6?style=for-the-badge&logo=dart&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-C--Sharp-purple?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### Framework
+![.NET](https://img.shields.io/badge/.net-5632D5?style=for-the-badge&logo=.net&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-2FB8F6?style=for-the-badge&logo=flutter&logoColor=white)
+![Wordpress](https://img.shields.io/badge/wordpress-3858e9?style=for-the-badge&logo=wordpress&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/django-0C4B33?style=for-the-badge&logo=django&logoColor=white)
 
 ### Tools
 
