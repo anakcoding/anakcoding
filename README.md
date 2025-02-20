@@ -2,6 +2,10 @@
 
 # 👋 Welcome to My GitHub Profile! 👋
 
+<div>
+  <img align="right" width="40%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</div>
+
 Hi there! I'm Muhammad Hafizh Bayhaqi, a student at Purwadhika Digital Technology School, based in Jakarta, Indonesia.
 
 ## Tech Skills
