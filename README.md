@@ -2,7 +2,7 @@
 
 # 👋 Welcome to My GitHub Profile! 👋
 
-Hi there! I'm Tiara, a student at Purwadhika Digital Technology School, based in Jakarta, Indonesia.
+Hi there! I'm Muhammad Hafizh Bayhaqi, a student at Purwadhika Digital Technology School, based in Jakarta, Indonesia.
 
 ## Tech Skills
 
