@@ -1,3 +1,5 @@
+![Kiran1689 Banner Image](./banner-profile.png)
+
 # 👋 Muhammad Hafizh Bayhaqi 👋
 
 ## Tech Skills
@@ -12,6 +14,12 @@
 ![PHP](https://img.shields.io/badge/php-7B7FB5?style=for-the-badge&logo=php&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-2FB8F6?style=for-the-badge&logo=flutter&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-C--Sharp-purple?style=for-the-badge&logo=csharp&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!-- ## Github Stats
 [![Akmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=akmalmzkki&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
