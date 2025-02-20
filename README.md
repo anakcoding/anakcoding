@@ -13,6 +13,17 @@
 ![Flutter](https://img.shields.io/badge/flutter-2FB8F6?style=for-the-badge&logo=flutter&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-C--Sharp-purple?style=for-the-badge&logo=csharp&logoColor=white)
 
+<!-- ## Github Stats
+[![Akmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=akmalmzkki&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
+---
+[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=anakcoding&layout=compact&theme=radical&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Contact Me
+
+<a href="https://www.linkedin.com/in/mhafizhbayhaqi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:m.hafizh.bayhaqi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 <!--
 **anakcoding/anakcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
