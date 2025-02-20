@@ -1,6 +1,8 @@
 ![Kiran1689 Banner Image](./banner-profile.png)
 
-# 👋 Muhammad Hafizh Bayhaqi 👋
+# 👋 Welcome to My GitHub Profile! 👋
+
+Hi there! I'm Tiara, a student at Purwadhika Digital Technology School, based in Jakarta, Indonesia.
 
 ## Tech Skills
 
